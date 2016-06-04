@@ -7,7 +7,6 @@ import android.view.View.OnClickListener;
 import android.widget.ImageView.ScaleType;
 import android.widget.Toast;
 
-import com.example.touch.R;
 import com.ortiz.touchview.TouchImageView;
 
 public class SwitchScaleTypeExampleActivity extends Activity {

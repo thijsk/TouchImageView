@@ -3,7 +3,6 @@ package com.ortiz.touchdemo;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.example.touch.R;
 import com.ortiz.touchview.TouchImageView;
 
 public class MirroringExampleActivity extends Activity {

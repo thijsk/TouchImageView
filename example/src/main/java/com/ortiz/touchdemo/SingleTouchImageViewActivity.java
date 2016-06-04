@@ -6,7 +6,6 @@ import android.graphics.RectF;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.example.touch.R;
 import com.ortiz.touchview.TouchImageView;
 
 import java.text.DecimalFormat;
