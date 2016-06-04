@@ -1,1 +1,1 @@
-include ':app', ':touchview'
+include ':example', ':library'
