@@ -1,12 +1,12 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion defaultCompileSdkVersion
-    buildToolsVersion defaultBuildToolsVersion
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
 
     defaultConfig {
         minSdkVersion 8
-        targetSdkVersion defaultTargetSdkVersion
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
@@ -17,3 +17,6 @@ android {
         }
     }
 }
+
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.LNSD'
