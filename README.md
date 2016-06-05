@@ -1,4 +1,5 @@
-#TouchImageView library
+#TouchImageView library [![](https://jitpack.io/v/lnsd/TouchImageView.svg)](https://jitpack.io/#lnsd/TouchImageView)
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/LNSD/TouchImageView/master/artwork/ic_launcher-web.png" width="240">
 </p>
@@ -38,7 +39,7 @@ Add it in your [root build.gradle](https://github.com/LNSD/TouchImageView/blob/m
 
 ``` gradle
 	dependencies {
-	        compile 'com.github.lnsd:TouchImageView:master-SNAPSHOT'
+	        compile 'com.github.lnsd:TouchImageView:v1.3.1'
 	}
 ```
 
