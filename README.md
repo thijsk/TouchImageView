@@ -1,6 +1,6 @@
 #TouchImageView library
 <p align="center">
-	<img src="https://raw.githubusercontent.com/LNSD/TouchImageView/master/artwork/ic_launcher-web.png" width="250">
+	<img src="https://raw.githubusercontent.com/LNSD/TouchImageView/master/artwork/ic_launcher-web.png" width="240">
 </p>
 
 
