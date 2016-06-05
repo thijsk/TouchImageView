@@ -34,7 +34,7 @@ Add it in your [root build.gradle](https://github.com/LNSD/TouchImageView/blob/m
 	}
 ```
 
-**Step 2.** Add the dependency to your [module build.gradle](https://github.com/LNSD/TouchImageView/blob/master/example/build.gradle#L28):
+**Step 2.** Add the dependency to your [module build.gradle](https://github.com/LNSD/TouchImageView/blob/master/example/build.gradle):
 
 ``` gradle
 	dependencies {
