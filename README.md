@@ -1,4 +1,5 @@
-#TouchImageView library [![](https://jitpack.io/v/lnsd/TouchImageView.svg)](https://jitpack.io/#lnsd/TouchImageView)
+#TouchImageView library 
+[![](https://jitpack.io/v/lnsd/TouchImageView.svg)](https://jitpack.io/#lnsd/TouchImageView)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/LNSD/TouchImageView/master/artwork/ic_launcher-web.png" width="240">
