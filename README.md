@@ -70,7 +70,8 @@ Click on TouchImageView to cycle through supported ScaleTypes.
 
 ##Limitations
 
-TouchImageView does not yet support pinch image rotation. Also, `FIT_START` and `FIT_END scaleTypes are not yet supported.
+TouchImageView does not yet support pinch image rotation.
+Also, the [scale types](https://developer.android.com/reference/android/widget/ImageView.html#attr_android:scaleType) `FIT_START` and `FIT_END` are not yet supported.
 
 ##Support
 
