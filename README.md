@@ -1,8 +1,8 @@
 #TouchImageView library 
-[![](https://jitpack.io/v/lnsd/TouchImageView.svg)](https://jitpack.io/#lnsd/TouchImageView)
+[![](https://jitpack.io/v/thijsk/TouchImageView.svg)](https://jitpack.io/#thijsk/TouchImageView)
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/LNSD/TouchImageView/master/artwork/ic_launcher-web.png" width="240">
+	<img src="https://raw.githubusercontent.com/thijsk/TouchImageView/master/artwork/ic_launcher-web.png" width="240">
 </p>
 
 
@@ -26,7 +26,7 @@ TouchImageView extends ImageView and supports all of ImageView’s functionality
 
 **Step 1.** Add the JitPack repository to your build file
 
-Add it in your [root build.gradle](https://github.com/LNSD/TouchImageView/blob/master/build.gradle#L21) at the end of repositories:
+Add it in your [root build.gradle](https://github.com/thijsk/TouchImageView/blob/master/build.gradle#L21) at the end of repositories:
 ``` gradle
 	allprojects {
 		repositories {
@@ -36,17 +36,17 @@ Add it in your [root build.gradle](https://github.com/LNSD/TouchImageView/blob/m
 	}
 ```
 
-**Step 2.** Add the dependency to your [module build.gradle](https://github.com/LNSD/TouchImageView/blob/master/example/build.gradle):
+**Step 2.** Add the dependency to your [module build.gradle](https://github.com/thijsk/TouchImageView/blob/master/example/build.gradle):
 
 ``` gradle
 	dependencies {
-	        compile 'com.github.lnsd:TouchImageView:v1.3.1'
+	        compile 'com.github.thijsk:TouchImageView:v1.3.1'
 	}
 ```
 
 ##Examples
 
-Please view the [sample app](https://github.com/LNSD/TouchImageView/tree/master/example) which includes examples of the following functionality:
+Please view the [sample app](https://github.com/thijsk/TouchImageView/tree/master/example) which includes examples of the following functionality:
 
 ####Single TouchImageView
 
